@@ -1,21 +1,58 @@
-# Sales Performance Analysis & BI Dashboard
+# 📊 Sales Performance Analysis & Business Intelligence Dashboard
 
-## Project Overview
-This project focuses on analyzing sales performance using Python and Power BI. The workflow includes data cleaning, exploratory data analysis, feature engineering, and building interactive dashboards to generate business insights.
+An end-to-end **Data Analytics & Business Intelligence project** that analyzes retail sales data using **Python** and **Power BI** to uncover trends, patterns, and actionable business insights.
 
-## Tools & Technologies
-- Python (Pandas, Matplotlib, Seaborn)
-- Power BI
-- Google Colab
-- GitHub
+---
 
-## Key Features
-- Cleaned and processed raw sales data
-- Performed exploratory data analysis to identify trends and seasonality
-- Built 3 professional Power BI dashboards:
-  - Executive Overview
-  - Sales Analysis
-  - Customer Insights
-- Implemented sales forecasting for future trend prediction
+## 🔍 Project Overview
 
-## Folder Structure
+This project focuses on transforming raw sales data into meaningful insights through data cleaning, exploratory data analysis (EDA), feature engineering, and interactive dashboarding.  
+The final output includes **professional Power BI dashboards** designed for executives, managers, and business stakeholders to support data-driven decision-making.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python** (Pandas, NumPy)
+- **Data Visualization** (Matplotlib, Seaborn)
+- **Power BI** (Dashboarding & Reporting)
+- **Google Colab / Jupyter Notebook**
+- **GitHub** (Version Control & Portfolio)
+
+---
+
+## 📌 Key Features
+
+- Data cleaning and preprocessing (handling missing values, duplicates, and date formats)
+- Feature engineering (Year, Month, time-based attributes)
+- Exploratory Data Analysis to identify trends, seasonality, and performance drivers
+- Development of **3 professional Power BI dashboards**:
+  - **Executive Overview Dashboard**
+  - **Sales Analysis Dashboard**
+  - **Customer Insights Dashboard**
+- Sales forecasting to predict future trends
+- Interactive slicers, filters, and visuals for better exploration
+
+---
+
+## 📈 Dashboards Included
+
+### 🔹 Executive Overview
+- Total Sales, Total Orders, Average Order Value
+- Monthly sales trends
+- Top-performing categories and regions
+
+### 🔹 Sales Analysis
+- Region vs Category heatmap
+- Segment-wise and shipment-based analysis
+- Sales vs Quantity insights
+
+### 🔹 Customer Insights
+- Customer segmentation
+- Top customers by revenue
+- Regional customer distribution and buying behavior
+
+---
+
+## 🗂️ Project Structure
+
